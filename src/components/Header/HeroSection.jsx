@@ -19,7 +19,7 @@ const HeroSection = () => {
     }, 1000);
   };
   return (
-    <section className="bg-[#e8f0f8] text-center py-30 px-4">
+    <section className="text-center py-30 px-4">
       <p className="uppercase tracking-wide text-sm font-semibold text-gray-600 mb-5">
         Present your service
       </p>
